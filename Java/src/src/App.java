@@ -2,7 +2,11 @@ package src;
 
 public class App {
 	public static void main(String[] args) {
+<<<<<<< HEAD
 		System.out.println("Sistema en modo producción");
+=======
+		System.out.println("Sistema con módulo de login activado");
+>>>>>>> refs/heads/feature-login
 			double precioBase = 100;
 			double descuento = 10;
 			double iva = 21;
