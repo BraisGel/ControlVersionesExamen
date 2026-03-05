@@ -2,7 +2,7 @@ package src;
 
 public class App {
 	public static void main(String[] args) {
-		System.out.println("Sistema iniciado");
+		System.out.println("Sistema en modo producción");
 			double precioBase = 100;
 			double descuento = 10;
 			double iva = 21;
